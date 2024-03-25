@@ -3,6 +3,8 @@
 
 A fast way to create a work/study timetable
 
+- can use in telegram bot
+
 
 ## Logo
 
